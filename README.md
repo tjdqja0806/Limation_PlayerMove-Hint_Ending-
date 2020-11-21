@@ -11,3 +11,5 @@ Explanation
 Game Scene
 
 ![힌트](https://user-images.githubusercontent.com/74092254/99870757-eb182f00-2c18-11eb-8686-e9f93e2a76c6.png)
+
+![엔딩](https://user-images.githubusercontent.com/74092254/99870777-04b97680-2c19-11eb-99aa-c3c323092eb2.png)
